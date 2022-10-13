@@ -17,7 +17,8 @@
         * We need to write the code for the required functionality (function definition)
         * When we want to use that function/code then we need to call that function.
         * we need to define the function before we call the function.
-        * functions can return a value using keyword return
+        * return:
+            functions can return a value using keyword return.
         * Function takes arguments 
            we can send arguments while calling function.
 
